@@ -6,19 +6,19 @@ The 1992 event program contained a brief history [[history1947-1992.pdf](files/h
 
 Please contact me (David Kotz '86) if you have information or records I can add.
 
-Many thanks to those who have contributed information or materials: Elaine Anderson '83, Put Blodgett '53, Phil Bracikowski '08, Julie Clemons, Marty Dodge (FLCC), Kevin Donohue '21, Rory Gawler ‘05, Jim Taylor '74, and ASE Thomas '91.
+Many thanks to those who have contributed information or materials: Elaine Anderson '83, Put Blodgett '53, Phil Bracikowski '08, Julie Clemons, Marty Dodge (FLCC), Kevin Donohue '21, Rory Gawler ‘05, Sam Nijensohn '98, Jim Taylor '74, and ASE Thomas '91.
 
 # Winners
 
 See notes below the table.
-Need to find/verify results in 2016 until date.
+***Need to find/verify results in 2016 until date.***
 
 | Year | Men's | Women's | Jack & Jill |
 | ----: | ----- | :---- | :---- |
-| 2025 | *missing* | *missing*  | *missing*  |
+| 2025 | ESF | ESF  | ESF  |
 | 2024 | *missing* | *missing*  | *missing*  |
-| 2023 | n/a | n/a | Paul Smith’s |
-| 2022 | *no meet due to pandemic* |  |  |
+| 2023 | (*) | (*) | Paul Smith’s |
+| 2022 | *missing* | *missing*  | *missing*  |
 | 2021 | *no meet due to pandemic* |  |  |
 | 2020 | *no meet due to pandemic* |  |  |
 | 2019 | *missing*  | *missing*  | FLCC |
@@ -123,11 +123,15 @@ Where the trophy differed from reports by individuals, David Kotz trusted the tr
 Here are links to rules, results, and programs over the years, listed by year, along with the host school.
 Please help fill in the gaps!
 
+- **2026** at ESF (April 25/26)
+- **2025** at ? ***(please help)***
 - **2024** at Paul Smith's College [[schedule2024.pdf](files/schedule2024.pdf)] [[schedule2024.docx](files/schedule2024.docx)] [[rules2024.pdf](files/rules2024.pdf)] [[results2024.pdf](files/results2024.pdf)]
 - **2023** at Dartmouth [[program2023.docx](files/program2023.docx)]  [[program2023.pdf](files/program2023.pdf)] [rules] [[results2023.pdf](files/results2023.pdf)] [[results2023.xlsx](files/results2018.xlsx)] [[photos](https://dartoutclub.smugmug.com/FTD/2021F-2022S/Spring-meet-23-photos)]
-- **2022** (no meet due to the pandemic)
+- **2022** at ? ***(please help)***
 - **2021** (no meet due to the pandemic)
 - **2020** (no meet due to the pandemic)
+
+---
 - **2019** at Cobleskill ***(please verify)*** [[results2019.pdf](files/results2019.pdf)] [[results2019.xlsx](files/results2019.xlsx)] 
 - **2018** at Dartmouth [[results2018.pdf](files/results2018.pdf)] [[results2018.xlsx](files/results2018.xlsx)] 
 - **2017** at Paul Smith’s ***(please verify)***
@@ -152,11 +156,11 @@ Please help fill in the gaps!
 - **2000** at Nova Scotia Agriculture College (NSAC)
 
 ---
-- **1999** at FLCC
-- **1998** at Dartmouth
+- **1999** at FLCC [[program1999.pdf](files/program1999.pdf)]
+- **1998** at Dartmouth [[program1998.pdf](files/program1998.pdf)]
 - **1997** at Paul Smith's College
 - **1996** at FLCC [[program1996.pdf](files/program1996.pdf)]
-- **1995** at Dartmouth [[results1995.pdf](files/results1995.pdf)]
+- **1995** at Dartmouth [[program1995.pdf](files/program1995.pdf)] [[results1995.pdf](files/results1995.pdf)]
 - **1994** at Colby
 - **1993** at Pinkerton
 - **1992** at Dartmouth [[program1992.pdf](files/program1992.pdf)] [[results1992.pdf](files/results1992.pdf)]
