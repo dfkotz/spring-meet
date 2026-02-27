@@ -1,7 +1,7 @@
 # Spring Meet archive
 
 The “Spring Meet” is an annual competition, started at Dartmouth College in 1947, that celebrates the old-time forestry skills used in the woods.
-It was traditionally known as Woodsmen's Weekend (WW), though at times it has been known as Dartmouth Logging Days, Timber Sports Weekend, or by other names.
+It was traditionally known as Woodsmen's Weekend (WW), though at times it has been known as Timber Sports Weekend, Logging Sports Championship, Dartmouth Logging Days, or just as "Spring Meet".
 The 1992 event program contained a brief history [[history1947-1992.pdf](files/history1947-1992.pdf)] from 1947-1992.
 
 Please contact me (David Kotz '86) if you have information or records I can add.
