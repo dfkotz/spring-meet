@@ -168,7 +168,7 @@ Please help fill in the gaps!
 - **1990** at UMO
 
 ---
-- **1989** at Dartmouth [[program1989.pdf](files/program1989.pdf)] [[results1989.pdf](files/results1989.pdf)]
+- **1989** at Dartmouth [[program1989.pdf](files/program1989.pdf)] [[results1989.pdf](files/results1989.pdf)] [[photos](https://dartoutclub.smugmug.com/FTD/1980-1999/1989-Woodsmens-Weekend)]
 - **1988** at Colby [[program1988.pdf](files/program1988.pdf)] [[rules1988.pdf](files/rules1988.pdf)]
 - **1987** at FLCC [[results1987a.pdf](files/results1987a.pdf)-v1] [[results1987b.pdf](files/results1987b.pdf)-v2]
 - **1986** at Dartmouth [[program1986.pdf](files/program1986.pdf)] [[results1986.pdf](files/results1986.pdf)] [[song1986.pdf](files/song1986.pdf)] [[woodsmoke1986.pdf](files/woodsmoke1986.pdf)]
