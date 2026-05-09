@@ -13,8 +13,9 @@ Many thanks to those who have contributed information or materials: Elaine Ander
 See notes below the table.
 ***Need to find/verify results in 2016 until date.***
 
-| Year | Men's | Women's | Jack & Jill |
-| ----: | ----- | :---- | :---- |
+| Year | Men's | Women's | Jack & Jill | Open |
+| ----: | ----- | :---- | :---- | :---- |
+| 2026 | ESF | ESF  | Paul Smith's | FLCC 1 |
 | 2025 | ESF | ESF  | ESF  |
 | 2024 | *missing* | *missing*  | *missing*  |
 | 2023 | (*) | (*) | Paul Smith’s |
