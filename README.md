@@ -13,8 +13,9 @@ Many thanks to those who have contributed information or materials: Elaine Ander
 See notes below the table.
 ***Need to find/verify results in 2016 until date.***
 
-| Year | Men's | Women's | Jack & Jill |
-| ----: | ----- | :---- | :---- |
+| Year | Men's | Women's | Jack & Jill | Open |
+| ----: | ----- | :---- | :---- | :---- |
+| 2026 | ESF | ESF  | Paul Smith's | FLCC 1 |
 | 2025 | ESF | ESF  | ESF  |
 | 2024 | *missing* | *missing*  | *missing*  |
 | 2023 | (*) | (*) | Paul Smith’s |
@@ -123,7 +124,7 @@ Where the trophy differed from reports by individuals, David Kotz trusted the tr
 Here are links to rules, results, and programs over the years, listed by year, along with the host school.
 Please help fill in the gaps!
 
-- **2026** at ESF (April 25/26)
+- **2026** at ESF [[rules2026.pdf](files/rules2026.pdf)] [[results2026.pdf](files/results2026.pdf)]
 - **2025** at ? ***(please help)***
 - **2024** at Paul Smith's College [[schedule2024.pdf](files/schedule2024.pdf)] [[schedule2024.docx](files/schedule2024.docx)] [[rules2024.pdf](files/rules2024.pdf)] [[results2024.pdf](files/results2024.pdf)]
 - **2023** at Dartmouth [[program2023.docx](files/program2023.docx)]  [[program2023.pdf](files/program2023.pdf)] [rules] [[results2023.pdf](files/results2023.pdf)] [[results2023.xlsx](files/results2018.xlsx)] [[photos](https://dartoutclub.smugmug.com/FTD/2021F-2022S/Spring-meet-23-photos)]
